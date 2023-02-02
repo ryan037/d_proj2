@@ -1,0 +1,7 @@
+// Array argument array
+
+void main(){
+	int a[10];
+	string b = "abc";
+	a[b] = 10;
+}

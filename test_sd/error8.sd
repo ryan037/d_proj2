@@ -1,0 +1,12 @@
+// function argument error
+int add(int a, int b){
+	int c;
+	c = a + b;
+	return c;
+}
+
+void main(){
+	int a = 1;
+	string b = "hi";
+	c = add(a,b);
+}

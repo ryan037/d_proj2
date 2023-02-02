@@ -1,0 +1,12 @@
+//double else error
+void main(){
+	int a = 5;
+	if(a > 5){
+		print a;;		
+	}else{
+		print "false";
+	}else{
+		print "false";
+	}
+        
+}

@@ -1,0 +1,10 @@
+//use local var
+void main(){
+	int num;
+	bool a = true;
+	if(a){
+		int b = 1;
+	}
+	num = b;
+        
+}

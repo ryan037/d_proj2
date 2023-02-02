@@ -1,0 +1,6 @@
+//int + boolean
+void main(){
+	int a = 1, b;
+	bool c = true;
+        b = a + c;
+}

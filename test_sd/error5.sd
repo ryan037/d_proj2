@@ -1,0 +1,8 @@
+//if(exp) type error
+void main(){
+	string a = "hi";
+	if(a){
+		print a;
+	}
+        
+}

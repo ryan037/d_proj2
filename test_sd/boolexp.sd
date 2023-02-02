@@ -1,0 +1,16 @@
+
+const int a = 5;
+int c = 0;
+
+void main() {
+	if (c > 0 || a > 4)
+		println -c;
+	else
+		println c;
+
+	if ( c > 0 && a > 4)
+		println -c;
+	else
+		println c;
+}
+
